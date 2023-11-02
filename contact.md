@@ -1,1 +1,3 @@
-Contact information here
+### Contact information: 
+
+laurenkuiv@gmail.com
